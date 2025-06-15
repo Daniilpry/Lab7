@@ -17,6 +17,8 @@
 ### Демонстрація роботи:
   <img width="455" alt="image" src="https://github.com/user-attachments/assets/133cfef5-4110-4763-b825-ed6f12fb2ea0" />
 
-### Компіляція 
+### Компіляція та запуск
+
 ```bash
-gcc security_check.c -o security_check
+gcc zd1.c -o zd1
+./zd1
